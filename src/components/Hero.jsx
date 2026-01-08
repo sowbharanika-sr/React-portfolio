@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import "./Hero.css";
 import Navbar from "./Navbar";
 import InsertLinkRoundedIcon from '@mui/icons-material/InsertLinkRounded';
-import WavingHandRoundedIcon from '@mui/icons-material/WavingHandRounded';
+
 const Hero = () => {
   const heroRef = useRef(null);
   const revealRef = useRef(null);
@@ -40,7 +40,7 @@ const Hero = () => {
       <Navbar />
 
       <div className="hero-content">
-        <h1>Hello Everyone!<br/> My Name is Sowbharanika S R<WavingHandRoundedIcon className="icon"/></h1>
+        <h1>Hello Everyone!<br/> My Name is Sowbharanika S R</h1>
         <p>I'm Currently Pursuing B.E in Computer Science and Engineering <br/>at Jansons Institute of Technology,Coimbatore</p>
         <p>Frontend Developer | React Enthusiast | UI Builder</p>
       </div>
