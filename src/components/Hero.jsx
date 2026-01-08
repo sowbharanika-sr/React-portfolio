@@ -93,9 +93,9 @@ const Hero = () => {
             <a href="mailto:sowbharanikaravikumar4@gmail.com" target="_blank" class="btn">
               <img src="https://th.bing.com/th/id/R.bb18bdbbef437b2d50518db5a8292c94?rik=cOvK7ERpnbu3Tw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2femail-icon-png-download-icons-logos-emojis-email-icons-2400.png&ehk=VQKlzNVcrMc2tLSKYacLzJ9XD4bCkYGXtMrARdqSBKQ%3d&risl=&pid=ImgRaw&r=0" alt="mail"/> Email</a>
               <div class="marksheets">
-                <a href="./images/12th_marksheet.jpeg" class="img"> 12th MARKSHEET   |</a>
-                <a href="./images/10th_marksheet.jpeg" class="img">10th MARKSHEET   |</a>
-                <a href="./images/SEMESTER.jpeg" class="img">SEMESTER MARKSHEET</a>
+                <a href="/images/12th_marksheet.jpeg" class="img"> 12th MARKSHEET   |</a>
+                <a href="/images/10th_marksheet.jpeg" class="img">10th MARKSHEET   |</a>
+                <a href="/images/SEMESTER.jpeg" class="img">SEMESTER MARKSHEET</a>
                 </div>
                   
         </div>
