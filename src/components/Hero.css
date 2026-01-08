@@ -1,7 +1,7 @@
 .hero {
   position: relative;
   height: 100vh;
-  background-image: url("/images/portfolio-cover-page.jpg");
+  background-image: url("/images/profile-pfp.png");
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -33,7 +33,7 @@ p{
 .image-reveal {
   position: absolute;
   inset: 0;
-  background-image: url("/images/night.png");
+  background-image: url("/images/chip.png");
   background-size: cover;
   background-position: center;
   opacity: 0;
